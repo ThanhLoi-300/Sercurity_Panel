@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sercurity_Panel", "Sercurity_Panel\Sercurity_Panel.csproj", "{38793132-52E8-4B8C-9D2C-F1359DAC5A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38793132-52E8-4B8C-9D2C-F1359DAC5A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38793132-52E8-4B8C-9D2C-F1359DAC5A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38793132-52E8-4B8C-9D2C-F1359DAC5A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38793132-52E8-4B8C-9D2C-F1359DAC5A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E22B86-0953-4EC9-AB0B-4D11217DAEBF}
+	EndGlobalSection
+EndGlobal
